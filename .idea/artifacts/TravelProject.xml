@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TravelProject">
+    <output-path>$PROJECT_DIR$/out/artifacts/TravelProject</output-path>
+    <root id="root" />
+  </artifact>
+</component>
